@@ -131,7 +131,3 @@ If your institution requires Duo authentication for Handshake, the script will p
 ## Disclaimer
 
 This script is for **educational and personal use only**. Automating job applications may be subject to the terms of service of the platforms you use, including Handshake — use at your own discretion and risk.
-
-## Author
-
-Developed by **Pernell Louis-Pierre**.
