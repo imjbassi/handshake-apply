@@ -1,0 +1,48 @@
+# Environment variables (NEVER commit these — contains passwords)
+.env
+.env.local
+.env.*.local
+*.env
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+.venv/
+*.egg-info/
+build/
+dist/
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Selenium / WebDriver caches
+.wdm/
+geckodriver.log
+chromedriver.log
+chromedriver.exe
+
+# Logs and screenshots from runs
+*.log
+applied_jobs.txt
+screenshots/
+
+# OS
+desktop.ini
+
+# Other platform bots (not part of the Handshake repo)
+linkedin_apply.py
+main.py
+indeed_apply.py
